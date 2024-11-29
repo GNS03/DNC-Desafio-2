@@ -12,7 +12,7 @@ campanha, identificar oportunidades de otimização e escolher os melhores plano
 ação para alcançar a meta do quarter. O dashboard será uma ferramenta essencial 
 para a tomada de decisão mais informada e estratégica.
 
-###Sobre os dados
+### Sobre os dados
 
   Com base no contexto fornecido, você como analista de Marketing precisa realizar um 
 Painel (Dashboard) para visualização dos dados.
@@ -36,4 +36,4 @@ seguintes informações do mês de Março de 2023:
 | `Usuários ativos por gênero`     | Quantidade de compradores por gênero          |
 
 ![](https://github.com/GNS03/DNC-Desafio-2/blob/main/Screenshot%202024-11-29%20004807.png)
-![](https://github.com/GNS03/DNC-Desafio-1/blob/main/Screenshot%202024-11-29%20004841.png)
+![](https://github.com/GNS03/DNC-Desafio-2/blob/main/Screenshot%202024-11-29%20004841.png)
